@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "TabSeonuk",
+  "version": "1.0",
+  "description": "새 탭을 완전히 빈 페이지로 대체합니다.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
